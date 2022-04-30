@@ -1,7 +1,7 @@
 Converter PDF usando:
 https://cloudconvert.com/pdf-to-html
 
-Incluir zoom:
+Incluir zoom (procurar por id="page-container"):
 ```<div id="page-container" style="zoom:33%">```
 
 Incluir title:
